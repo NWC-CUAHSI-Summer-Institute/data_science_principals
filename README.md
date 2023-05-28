@@ -6,3 +6,6 @@ This lesson deals with making sure the processing steps for your large data proj
 
 ### 02_data_exploration
 This lesson goes over a couple of simple functions to explore data with some simple statistics and a visualization of correlations.
+
+### 03_data_distributions
+This lesson contains examples of ways to check the probability distributions of our data.
