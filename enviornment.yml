@@ -1,0 +1,16 @@
+name: bootcamp_data_science
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.9*
+ - jupyterlab
+ - jupyter_contrib_nbextensions
+ - notebook
+ - numpy
+ - pandas
+ - scikit-learn
+ - matplotlib
+ - ipykernel
+ - ipywidgets
+ - netCDF4
