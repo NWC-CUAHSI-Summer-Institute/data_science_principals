@@ -12,3 +12,6 @@ This lesson goes over a couple of simple functions to explore data with some sim
 
 ### 03_data_distributions
 This lesson contains examples of ways to check the probability distributions of our data.
+
+### 04_regression
+This lesson goes over Least Squares Regression, the USGS regression equations for streamflow recurrence, and Random Forrest Regression for a CONUS-wide streamflow recurrence model
